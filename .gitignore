@@ -1,0 +1,13 @@
+# Build & Maven output
+target/
+out/
+
+# Environment & secrets
+.env
+.env.*
+
+# IDE & OS temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
